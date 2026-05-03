@@ -1,3 +1,4 @@
 #EXTM3U
-#EXTINF:-1 group-title="📺 TABİİ DİZİLERİ" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/37/Gassal.jpg/250px-Gassal.jpg", Gassal
-https://raw.githubusercontent.com/raalbatros/series/refs/heads/main/sezon/gassal-s03.m3u
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/37/Gassal.jpg/250px-Gassal.jpg" group-title="📺 TABİİ DİZİLERİ",Gassal
+https://raw.githubusercontent.com/raalbatros/series/main/sezon/gassal-s03.m3u
