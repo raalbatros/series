@@ -1,54 +1,58 @@
-[
-  {
-    "name": "Gassal",
-    "year": "2025",
-    "cover": "https://i.ibb.co/rGj5RQ7t/gassal3.jpg",
-    "seasons": [
+{
+  "categories": {
+    "Tabii Dizileri": [
       {
-        "season": 3,
-        "episodes": [
+        "name": "Gassal",
+        "year": "2025",
+        "cover": "https://i.ibb.co/rGj5RQ7t/gassal3.jpg",
+        "seasons": [
           {
-            "title": "1. Bölüm",
-            "url": "https://vidservh1k4.ifsaembed.site/f872007a-cba0-4f19-9317-5ec8c0498226.mp4"
-          },
-          {
-            "title": "2. Bölüm",
-            "url": "https://vidservh1k4.ifsaembed.site/77745f58-24a8-458e-a0d3-f633e81768b9.mp4"
-          },
-          {
-            "title": "3. Bölüm",
-            "url": "https://vidservh1k4.ifsaembed.site/e40b8117-92a9-4d9d-9fb1-78128525c02e.mp4"
-          },
-          {
-            "title": "4. Bölüm",
-            "url": "https://vidservh1k4.ifsaembed.site/bc7f00a5-b5fa-4e4a-bb42-265c120909ab.mp4"
-          },
-          {
-            "title": "5. Bölüm",
-            "url": "https://vidservh1k4.ifsaembed.site/be579159-455f-4bdf-bc6d-b75d02732d71.mp4"
-          },
-          {
-            "title": "6. Bölüm",
-            "url": "https://vidservh1k4.ifsaembed.site/44a8c21f-13a8-4d20-b587-eff76a5d1f7b.mp4"
-          },
-          {
-            "title": "7. Bölüm",
-            "url": "https://vidservh1k4.ifsaembed.site/21a24050-895a-4816-aae5-a1e24ca0de1b.mp4"
-          },
-          {
-            "title": "8. Bölüm",
-            "url": "https://vidservh1k4.ifsaembed.site/c90231aa-4b14-402c-8323-17a372444a1f.mp4"
-          },
-          {
-            "title": "9. Bölüm",
-            "url": "https://vidservh1k4.ifsaembed.site/ee71168b-62b9-41a2-bbb7-062f69862bca.mp4"
-          },
-          {
-            "title": "10. Bölüm",
-            "url": "https://vidservh1k4.ifsaembed.site/9b54db10-fea9-4f10-acb4-7e03ff1c84b6.mp4"
+            "season": 3,
+            "episodes": [
+              {
+                "title": "1. Bölüm",
+                "url": "https://vidservh1k4.ifsaembed.site/f872007a-cba0-4f19-9317-5ec8c0498226.mp4"
+              },
+              {
+                "title": "2. Bölüm",
+                "url": "https://vidservh1k4.ifsaembed.site/77745f58-24a8-458e-a0d3-f633e81768b9.mp4"
+              },
+              {
+                "title": "3. Bölüm",
+                "url": "https://vidservh1k4.ifsaembed.site/e40b8117-92a9-4d9d-9fb1-78128525c02e.mp4"
+              },
+              {
+                "title": "4. Bölüm",
+                "url": "https://vidservh1k4.ifsaembed.site/bc7f00a5-b5fa-4e4a-bb42-265c120909ab.mp4"
+              },
+              {
+                "title": "5. Bölüm",
+                "url": "https://vidservh1k4.ifsaembed.site/be579159-455f-4bdf-bc6d-b75d02732d71.mp4"
+              },
+              {
+                "title": "6. Bölüm",
+                "url": "https://vidservh1k4.ifsaembed.site/44a8c21f-13a8-4d20-b587-eff76a5d1f7b.mp4"
+              },
+              {
+                "title": "7. Bölüm",
+                "url": "https://vidservh1k4.ifsaembed.site/21a24050-895a-4816-aae5-a1e24ca0de1b.mp4"
+              },
+              {
+                "title": "8. Bölüm",
+                "url": "https://vidservh1k4.ifsaembed.site/c90231aa-4b14-402c-8323-17a372444a1f.mp4"
+              },
+              {
+                "title": "9. Bölüm",
+                "url": "https://vidservh1k4.ifsaembed.site/ee71168b-62b9-41a2-bbb7-062f69862bca.mp4"
+              },
+              {
+                "title": "10. Bölüm",
+                "url": "https://vidservh1k4.ifsaembed.site/9b54db10-fea9-4f10-acb4-7e03ff1c84b6.mp4"
+              }
+            ]
           }
         ]
       }
     ]
   }
-]
+}
