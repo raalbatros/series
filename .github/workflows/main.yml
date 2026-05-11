@@ -1,0 +1,33 @@
+name: Dosyaload Scanner
+
+on:
+  schedule:
+    - cron: "0 * * * *"   # Her saat başı çalışır
+  workflow_dispatch:       # Manuel çalıştırma
+
+jobs:
+  scan:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Repo'yu çek
+        uses: actions/checkout@v3
+
+      - name: Node kur
+        uses: actions/setup-node@v3
+        with:
+          node-version: 18
+
+      - name: Bağımlılıkları kur
+        run: npm install
+
+      - name: Scanner'ı çalıştır
+        run: node scanner.js
+
+      - name: Değişiklikleri pushla
+        run: |
+          git config user.name "github-actions"
+          git config user.email "actions@github.com"
+          git add .
+          git commit -m "auto update" || echo "No changes"
+          git push
