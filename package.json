@@ -1,0 +1,10 @@
+{
+  "name": "dosyaload-scanner",
+  "version": "1.0.0",
+  "type": "module",
+  "main": "scanner.js",
+  "dependencies": {
+    "axios": "^1.7.0",
+    "https-proxy-agent": "^7.0.2"
+  }
+}
